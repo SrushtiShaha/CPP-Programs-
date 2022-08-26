@@ -9,7 +9,7 @@ class Sum
     public:
           int iNo1, iNo2, iRes;  // Data Members.
           
-          void Add()  // Behaviour/ Member Function.
+          void Add()  // Behaviour / Member Function.
           {
               iRes = iNo1 + iNo2;
           }
