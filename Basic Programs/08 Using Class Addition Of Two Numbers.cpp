@@ -17,7 +17,7 @@ class Sum
               iRes = iN1 + iN2;
               
               cout << endl << "Addition Of " << iN1 << " And " << iN2 << " Is => " << iRes << "." << endl;
-              
+             
               return;
           }
 };
