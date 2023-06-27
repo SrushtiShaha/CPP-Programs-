@@ -10,7 +10,7 @@ int main()
     
     iAns = iNo1 + iNo2;
     
-    cout << endl << "Addition Is : " << iAns << endl ;
+    cout << endl << " Addition Is : " << iAns << endl ;
     
     getch();
     return 0;
