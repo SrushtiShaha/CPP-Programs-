@@ -24,7 +24,7 @@ int main()
     
     Obj.Add();
     
-    cout << endl << " \t Addition Of " << Obj.iNo1 << " + " << Obj.iNo2 << " Is => " << Obj.iRes << endl;
+    cout << endl << "\t Addition Of " << Obj.iNo1 << " + " << Obj.iNo2 << " Is => " << Obj.iRes << endl;
     
     getch();
     return 0;
