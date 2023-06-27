@@ -16,7 +16,7 @@ class Sum
               
               iRes = iN1 + iN2;
               
-              cout << endl << "Addition Of " << iN1 << " And " << iN2 << " Is => " << iRes << "." << endl;
+              cout << endl << " Addition Of " << iN1 << " And " << iN2 << " Is => " << iRes << "." << endl;
              
               return;
           }
@@ -28,7 +28,7 @@ int main()
     
     Obj.Add();
     
-    cout << endl << "Back To Main() Function." << endl;
+    cout << endl << " Back To Main() Function." << endl;
     
     getch();
     return 0;
