@@ -13,7 +13,7 @@ int main()
     
     iAns = iNo1 + iNo2;
     
-    cout << endl << " \t Addition Of Given " << iNo1 << " And " << iNo2 << " Is => " << iAns << endl;
+    cout << endl << " \t Addition Of Given " << iNo1 << " And " << iNo2 << " Is -> " << iAns << endl;
     
     getch();
     return 0;
