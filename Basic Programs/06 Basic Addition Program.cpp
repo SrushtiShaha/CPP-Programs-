@@ -12,7 +12,7 @@ int main()
     
     cin >> iNo1 >> iNo2;
     
-    cout << endl << " \t Addition Of " << iNo1 << " And " << iNo2 << " Is => " << iNo1 + iNo2 << endl;
+    cout << endl << "\t Addition Of " << iNo1 << " And " << iNo2 << " Is => " << iNo1 + iNo2 << endl;
     
     getch();
     return 0;
